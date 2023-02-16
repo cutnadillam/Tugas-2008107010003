@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Form</string>
+    <string name="judul">Formulir</string>
+    <string name="form_nama">Nama</string>
+    <string name="form_npm">NPM</string>
+    <string name="form_jurusan">Jurusan</string>
+    <string name="button">SIMPAN</string>
+</resources>
